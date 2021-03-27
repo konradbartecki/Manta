@@ -12,6 +12,7 @@ import en from './en';
 import fr from './fr';
 import id from './id';
 import it from './it';
+import pl from './pl';
 import sk from './sk';
 import urPK from './ur-PK';
 import vi from './vi';
@@ -28,6 +29,7 @@ i18n.use(reactI18nextModule).init({
     fr,
     id,
     it,
+    pl,
     sk,
     "ur-PK": urPK,
     vi,

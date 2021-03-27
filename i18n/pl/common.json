@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "fullname": "Pełna nazwa",
+    "company": "Firma",
+    "address": "Adres",
+    "email": "Email",
+    "phone": "Numer telefonu",
+    "website": "Strona internetowa"
+  },
+  "save": "Zapisz",
+  "amount": "Kwota",
+  "default": "Domyślne",
+  "saveAsDefault": "Zapisz jako domyślne?",
+  "yes": "Tak",
+  "noThanks": "Nie, dzięki"
+}

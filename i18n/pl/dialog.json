@@ -1,0 +1,99 @@
+{
+  "appUpdate" : {
+    "available": {
+      "title": "Nowa aktualizacja dostępna",
+      "message": "Czy chcesz zacząć pobieranie aktualizacji w tle?"
+    },
+    "noUpdate": {
+      "title": "Brak aktualizacji",
+      "message": "Posiadasz najnowszą wersję aplikacji"
+    },
+    "error": {
+      "title": "Wystąpił bląd"
+    },
+    "downloaded": {
+      "title": "Aktualizacja pobrana",
+      "message": "Czy chcesz zamknąć i zaktualizować aplikacje teraz?",
+      "quitNow": "Zamknij teraz",
+      "later": "Później"
+    }
+  },
+  "noAccess": {
+    "title": "Brak uprawnień",
+    "message": "Wybierz inny katalog"
+  },
+  "errorBoundary": "Wystąpił błąd",
+  "deleteInvoice": {
+    "title": "Usunąć tą fakturę?",
+    "message": "Ta faktura zostanie usunięta z bazy danych bez możliwości jej przywrócenia"
+  },
+  "deleteContact": {
+    "title": "Usunąć ten kontakt?",
+    "message": "Ten kontakt zostanie usunięty z bazy danych bez możliwości przywrócenia"
+  },
+  "fileTypeErr": {
+    "title": "Wybierz inny plik"
+  },
+  "validation": {
+    "invoiceID": {
+      "title": "Nieprawidłowe ID faktury",
+      "message": "ID faktury nie może być puste"
+    },
+    "recipient": {
+      "empty": {
+        "title": "Nieprawidłowy kontakt",
+        "message": "Kontakt nie może być pusty"
+      },
+      "requiredFields": {
+        "title": "Wymagane pola",
+        "message": "Proszę wypełnij wszystkie wymagane pola"
+      },
+      "email": {
+        "title": "Nieprawidłowy email",
+        "message": "Wybierz inny email"
+      }
+    },
+
+    "rows": {
+      "emptyDescription": {
+        "title": "Nieprawidłowy opis",
+        "message": "Opis nie może być pusty"
+      },
+      "priceZero": {
+        "title": "Nieprawidłowa centa",
+        "message": "Cena musi być większa niż zero"
+      },
+      "qtyZero": {
+        "title": "Nieprawidłowa ilość",
+        "message": "Ilość musi być większa niż zero"
+      }
+    },
+
+    "dueDate": {
+      "title": "Nieprawidłowa data",
+      "message": "Please select a date"
+    },
+
+    "currency": {
+      "fraction": {
+        "title": "Invalid Fraction",
+        "message": "Decimal Fraction must be equal or greater than zero"
+      }
+    },
+
+    "discount": {
+      "title": "Invalid discount",
+      "message": "Discount amount must be greater than zero"
+    },
+
+    "tax": {
+      "title": "Invalid tax",
+      "message": "Tax amount must be greater than zero"
+    },
+
+    "note": {
+      "title": "Invalid note",
+      "message": "Note content can not be blank"
+    }
+  }
+}
